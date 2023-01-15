@@ -1,7 +1,7 @@
 <h1 align="center">Zyxphier Yeska</h1>
 <h4 align="center">I am Gijenthira Kumar from India experienced in Linux Server Management and Front-End Web Development</h4>
----
 
+---
 - 🔭 I’m currently working on Sizzly Network
 - 🌱 I’m currently learning C
 - 🤔 I’m looking for help with Rentrie
