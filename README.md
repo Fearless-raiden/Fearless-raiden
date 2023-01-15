@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Zyxphier Yeska</h1>
+<h4 align="center">I am Gijenthira Kumar from India experienced in Linux Server Management and Front-End Web Development</h4>
 
-<!--
-**Fearless-raiden/Fearless-raiden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Sizzly Network
+- 🌱 I’m currently learning C
+- 🤔 I’m looking for help with Rentrie
+- 💬 Ask me about anything
+- 📫 Reach me at: zyxphier@pm.me
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: You wasted your time reading my profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### My Discord :
+<img src="https://discord.c99.nl/widget/theme-4/977232016829448242.png" alt="Discord Status">
